@@ -1,4 +1,4 @@
-###name formatting program 
+### name formatting program 
 
 i create a simple program with few code. that convert user name to a  title formatting ( **capital letter for each first letter in the name**) 
 
